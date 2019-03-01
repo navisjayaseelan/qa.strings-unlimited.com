@@ -65,7 +65,7 @@
 
  ***/
 * {
-	margin-top:1px;
+	margin-top:0px;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -629,7 +629,7 @@ ul,li{
 .main-header .header-lower{
 	position:relative;
 	left:0px;
-	top:0px;
+	top:2px;
 	width:100%;
 	background:#ffffff;
 	z-index:5;
