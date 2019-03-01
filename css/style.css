@@ -1060,6 +1060,14 @@ ul,li{
 	background:-o-linear-gradient(top,#75b859,#97eb5f);
 }
 
+.four-col-fluid .column.red-theme .overlay{
+	background:red;
+	background:-moz-linear-gradient(top,red, #f06d06);
+	background:-ms-linear-gradient(top,red, #f06d06);
+	background:-webkit-linear-gradient(red, #f06d06);
+	background:-o-linear-gradient(red, #f06d06);
+}
+
 /*** 
 
 ====================================================================
