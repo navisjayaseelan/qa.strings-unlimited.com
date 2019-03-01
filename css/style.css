@@ -131,7 +131,10 @@ p{
 .auto-container{
 	position:static;
 	max-width:1200px;
-	padding:0px 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 3px;
+	padding-bottom: 3px;
 	margin:0 auto;
 }
 
@@ -629,7 +632,7 @@ ul,li{
 .main-header .header-lower{
 	position:relative;
 	left:0px;
-	top:2px;
+	top:0px;
 	width:100%;
 	background:#ffffff;
 	z-index:5;
