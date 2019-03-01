@@ -634,7 +634,7 @@ ul,li{
 	left:0px;
 	top:0px;
 	width:100%;
-	background:#ffffff;
+	background:#182d37;
 	z-index:5;
 	border-bottom:1px solid rgba(0,0,0,0.20);	
 }
@@ -678,7 +678,7 @@ ul,li{
 	display:block;
 	padding:25px 0px;
 	font-size:13px;
-	color:#27343e;
+	color:#ffffff;
 	font-weight:500;
 	line-height:30px;
 	border-top:none;
