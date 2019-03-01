@@ -634,7 +634,7 @@ ul,li{
 	left:0px;
 	top:0px;
 	width:100%;
-	background:#182d37;
+	background:#ffffff;
 	z-index:5;
 	border-bottom:1px solid rgba(0,0,0,0.20);	
 }
@@ -678,7 +678,7 @@ ul,li{
 	display:block;
 	padding:25px 0px;
 	font-size:13px;
-	color:#27343e;
+	color:#ffffff;
 	font-weight:500;
 	line-height:30px;
 	border-top:none;
@@ -699,7 +699,7 @@ ul,li{
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li.current-menu-item > a{
-	color:#ffffff;
+	color:#01a5c9;
 	opacity:1;
 }
 
@@ -736,7 +736,7 @@ ul,li{
 	line-height:16px;
 	font-size:20px;
 	display:block;
-	color:#ffffff;
+	color:#1d93e5;
 	text-align:center;
 	z-index:5;	
 }
